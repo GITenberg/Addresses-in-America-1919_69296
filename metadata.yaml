@@ -1,0 +1,31 @@
+_repo: Addresses-in-America-1919_69296
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: https://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2022-11-05'
+identifiers:
+  gutenberg: '69296'
+language: en
+pgterms:marc904: https://archive.org/details/addressesinameri00gals
+pgterms:marc905: 20211213092451galsworthy
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: 'United States: Charles Scribner''s Sons,1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Addresses in America, 1919
+url: http://www.gutenberg.org/ebooks/69296
